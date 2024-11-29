@@ -25,11 +25,11 @@ To contribute:
 ---
 
 ## 🧩 Table of Contents
-- [🔍 Reconnaissance](1-Recon/README.md)
-- [🛠️ Vulnerability Analysis](2-Vulnerability-Analysis/README.md)
-- [💥 Exploitation](3-Exploitation/README.md)
-- [📝 Reporting](4-Reporting/README.md)
-- [💡 Common Payloads](5-Common-Payloads/README.md)
+- [🔍 Reconnaissance](1%20-%20Recon/README.md)
+- [🛠️ Vulnerability Analysis](2%20-%20Vulnerability-Analysis/README.md)
+- [💥 Exploitation](3%20-%20Exploitation/README.md)
+- [📝 Reporting](4%20-%20Reporting/README.md)
+- [💡 Common Payloads](5%20-%20Common-Payloads/README.md)
 
 ---
 
