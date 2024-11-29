@@ -120,7 +120,8 @@ This repository contains a comprehensive bug bounty methodology, designed for an
 | **Command Injection** | `; ls -la`                          | URL/Input Field         | Tests if system commands are executed.                    |
 | **CSRF**           | `<img src="http://example.com/change?param=value">` | HTML                   | Tests if an unauthenticated change can be triggered.      |
 
-## 6. 📚 Resources
+## 6. 📚 Resources to keep yourself updated:
+
 - [PayloadAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings): A comprehensive list of useful payloads for various vulnerabilities.
 - [Hacker101](https://www.hacker101.com/): Free security training resources by HackerOne.
 
